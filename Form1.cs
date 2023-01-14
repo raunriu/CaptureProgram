@@ -36,7 +36,7 @@ namespace ScreenShot
             }
             */
             
-            //
+            // 테스트 테스트 테스트
             this.captureListBox.Items.AddRange(new object[] {$"테스트{count}"});
             count++;
         }
